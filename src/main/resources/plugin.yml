@@ -1,0 +1,10 @@
+name: VoidInteractive
+version: '${project.version}'
+main: lethal.voidinteractive.VoidInteractive
+api-version: 1.16
+commands:
+  void:
+    description: main void command
+    aliases: otchlan
+  clear:
+    description: main clearing command
